@@ -20,7 +20,7 @@ This is a simple BlogApp API built using FastAPI.
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/Sridharan237/api-2(blogapp-api).git
+    git clone https://github.com/Sridharan237/blogapp-api-fastapi.git
     cd blogapp-api
     ```
 
