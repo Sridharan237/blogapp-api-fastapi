@@ -32,7 +32,7 @@ This is a simple BlogApp API built using FastAPI.
 
 ## Running the Application
 
-2. **Start the development server**
+3. **Start the development server**
 
     ```sh
     py main.py
