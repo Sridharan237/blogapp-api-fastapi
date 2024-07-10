@@ -21,7 +21,7 @@ This is a simple BlogApp API built using FastAPI.
 
     ```sh
     git clone https://github.com/Sridharan237/blogapp-api-fastapi.git
-    cd blogapp-api
+    cd blogapp-api-fastapi
     ```
 
 2. **Install the dependencies**
